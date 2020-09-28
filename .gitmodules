@@ -1,3 +1,6 @@
 [submodule "simple_code"]
 	path = simple_code
 	url = https://github.com/gaurav7goyal/simple_code.git
+[submodule "src/python/simple_code"]
+	path = src/python/simple_code
+	url = https://github.com/gaurav7goyal/simple_code.git
